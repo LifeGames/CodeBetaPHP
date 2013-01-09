@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # test
 ## test
 ### test
